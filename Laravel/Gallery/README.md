@@ -15,7 +15,7 @@
 
 #### Установка
 
-Распаковать содержание папки **Gallery** в корневую директорию проекта.
+Распаковать содержание папки **gallery** в корневую директорию проекта.
 
 Выполнить
 ```sh
@@ -35,6 +35,7 @@ DB_PASSWORD=пароль
 composer install
 php artisan key:generate
 php artisan migrate
+php artisan storage:link
 ```
 
 [Laravel]: <https://laravel.com/>
