@@ -11,3 +11,15 @@
 [Решение](https://github.com/Disciple57/test-my-skills/blob/main/MySQL/libray.sql)
 
 <hr>
+
+## [Laravel] 
+
+#### Задача: cоздать классическое CRUD приложение.
+
+*1. Вы можете спокойно использовать как API, так и прямой Back-end от Laravel.*
+
+*2. Использовать можно Vue, Bootstrap, VanillaJS.*
+
+[Решение](https://github.com/Disciple57/test-my-skills/tree/main/Laravel/Gallery)
+
+<hr>
