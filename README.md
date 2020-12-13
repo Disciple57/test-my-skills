@@ -20,6 +20,6 @@
 
 *2. Использовать можно Vue, Bootstrap, VanillaJS.*
 
-[Решение](https://github.com/Disciple57/test-my-skills/tree/main/Laravel/gallery)
+[Решение](https://github.com/Disciple57/test-my-skills/tree/main/Laravel/Gallery)
 
 <hr>
